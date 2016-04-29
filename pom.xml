@@ -11,6 +11,7 @@
 
 	<modules>
 		<module>../hrt-modules</module>
+		<module>../hrt-data-db</module>
 		<module>../hc-web-rest</module>
 		<module>../hrt-web-rest</module>
 	</modules>
